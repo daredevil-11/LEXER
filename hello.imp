@@ -1,0 +1,6 @@
+int hello := 4 ; 
+char hi := 'i' ;
+if ( 4 >= 7 ) {
+	int big := 9 ;	
+}
+while         (    true    )     {    char   c   :=  'a'   }            ;
